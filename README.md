@@ -2,7 +2,7 @@
 
 When you chat with a random stranger on Omegle you can access its IP address, and you can geo localize people using it.
 
-**Use a VPN when accessing Omegle**
+**❗ Use a VPN when accessing Omegle ❗**
 
 Code by [Matt Upham](https://mattupham.com/)
 
