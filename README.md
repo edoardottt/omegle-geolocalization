@@ -11,3 +11,5 @@ Code by [Matt Upham](https://mattupham.com/)
 3. Paste the code inside the Console (Working only for Video chat, not text).
 
 If you have some problems using this, [write me](https://www.edoardoottavianelli.it) or [watch this video](https://www.youtube.com/watch?v=fN9cWpY5zUc).
+
+--------
