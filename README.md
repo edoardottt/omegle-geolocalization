@@ -13,4 +13,4 @@ If you have some problems using this, [watch this video](https://www.youtube.com
 
 --------
 
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it/) to contact me.
+[edoardottt.com](https://edoardottt.com/) to contact me.
